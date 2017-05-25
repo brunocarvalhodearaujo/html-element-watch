@@ -1,0 +1,22 @@
+{
+  "name": "html-element-watch",
+  "version": "0.0.1",
+  "description": "watch changes in DOM elements and execute an trigger",
+  "license": "MIT",
+  "author": "Bruno Carvalho de Araujo <brunocarvalhodearaujo@gmail.com>",
+  "main": "lib/index.js",
+  "repository": {
+    "url": "https://github.com/brunocarvalhodearaujo/html-element-watch.git", "type": "git"
+  },
+  "scripts": {
+    "prepublish": "babel src --out-dir lib"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.24.1",
+    "babel-plugin-transform-inline-imports-commonjs": "^1.2.0"
+  },
+  "dependencies": {
+    "is": "^3.2.1",
+    "lodash": "^4.17.4"
+  }
+}
