@@ -12,7 +12,3 @@ lib
 *._*
 *.env
 *.log
-
-# lock files
-yarn.lock
-package-lock.json
