@@ -1,6 +1,6 @@
 {
   "name": "html-element-watch",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "watch changes in DOM elements and execute an trigger",
   "license": "MIT",
   "author": "Bruno Carvalho de Araujo <brunocarvalhodearaujo@gmail.com>",
